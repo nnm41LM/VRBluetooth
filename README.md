@@ -30,7 +30,7 @@
 | C# | .NET Standard |
 | BlueUnity | 3.0.0 |
 | Arduino IDE | 1.8.15 |
-| M5Stack | Core2 / Basic など |
+| M5Stack | Basic |
 
 ---
 
